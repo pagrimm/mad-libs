@@ -1,17 +1,17 @@
-# Portfolio Project
+# Mad Libs Page
 
-#### , 05.29.2020
+#### jQuery Activity for Epicodus, 05.29.2020
 
 #### By **Peter Grimm**
 
 ## Description
 
-Insert description here
+A madlibs page created to learn about forms and using jQuery DOM manipulation.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the _ _ folder
+* Browse to the _mad-libs_ folder
 * Open _index.html_ in a browser of your choice
 
 ## Technologies Used
